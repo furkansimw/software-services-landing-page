@@ -6,7 +6,7 @@ const Container1 = () => {
       <div className="bg"></div>
       <div className="header">
         <a href="/">
-          <img src="navlogo.svg" alt="navlogo" />
+          <img src="./navlogo.svg" alt="navlogo" />
         </a>
         <ul>
           <li className="home">
@@ -36,7 +36,7 @@ const Container1 = () => {
           <button className="f">Get Started</button>
           <button className="r">
             <p>Watch Video</p>
-            <img src="/vector1.svg" alt="vector1" />
+            <img src="./vector1.svg" alt="vector1" />
           </button>
         </div>
       </div>

@@ -17,23 +17,23 @@ const Container6 = () => {
           <div className="or">or $199 yearly</div>
           <ul className="lll">
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Unlimited members</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Unlimited feedback</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Weekly team Feedback Friday</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Custom Kudos +9 illustration</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Team feedback history</p>
             </li>
           </ul>
@@ -45,23 +45,23 @@ const Container6 = () => {
           <div className="or">or $299 yearly</div>
           <ul className="lll">
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Unlimited members</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Unlimited feedback</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Weekly team Feedback Friday</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Team feedback history</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Slack integration</p>
             </li>
           </ul>
@@ -73,23 +73,23 @@ const Container6 = () => {
           <div className="or">or $499 yearly</div>
           <ul className="lll">
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Unlimited members</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Unlimited feedback</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Weekly team Feedback Friday</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Team feedback history (30 items)</p>
             </li>
             <li>
-              <img src="/tick.svg" alt="tick-icon" />
+              <img src="./tick.svg" alt="tick-icon" />
               <p>Personal feedback history (6 items)</p>
             </li>
           </ul>

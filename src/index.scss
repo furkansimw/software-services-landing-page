@@ -319,6 +319,7 @@ body {
   }
   .main {
     display: flex;
+    list-style: none;
     justify-content: space-between;
     li {
       cursor: pointer;
@@ -353,6 +354,7 @@ body {
         margin-bottom: 30px;
       }
       .lll {
+
         li {
           margin-bottom: 1rem;
           display: flex;

@@ -12,7 +12,7 @@ const Container4 = () => {
         </p>
         <button>Read More</button>
       </div>
-      <img src="/dasboard.png" alt="dasboard" />
+      <img src="./dasboard.png" alt="dasboard" />
     </div>
   );
 };

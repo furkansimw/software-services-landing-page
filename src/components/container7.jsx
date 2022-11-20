@@ -17,7 +17,7 @@ const Container7 = () => {
         By clicking Sign Up you're confirming that you agree with our{" "}
         <a href="/">Terms and Conditions</a>.
       </p>
-      <img src="/dlayer.svg" alt="dlayer" className="dlayer" />
+      <img src="./dlayer.svg" alt="dlayer" className="dlayer" />
     </div>
   );
 };

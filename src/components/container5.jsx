@@ -10,11 +10,11 @@ const Container5 = () => {
       <ul>
         <li className="b">
           <div className="stars">
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
           </div>
           <p>
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -22,7 +22,7 @@ const Container5 = () => {
             quis viverra ornare."
           </p>
           <div className="info">
-            <img src="/pp1.png" alt="pp1" />
+            <img src="./pp1.png" alt="pp1" />
             <div>
               <h1>Brooklyn Simmons</h1>
               <p>Bank of America</p>
@@ -31,11 +31,11 @@ const Container5 = () => {
         </li>
         <li>
           <div className="stars">
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
           </div>
           <p>
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -43,7 +43,7 @@ const Container5 = () => {
             quis viverra ornare."
           </p>
           <div className="info">
-            <img src="/pp2.png" alt="pp2" />
+            <img src="./pp2.png" alt="pp2" />
             <div>
               <h1>Darrell Steward</h1>
               <p>American Airlines Group</p>
@@ -52,11 +52,11 @@ const Container5 = () => {
         </li>
         <li>
           <div className="stars">
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
-            <img src="/star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
+            <img src="./star.svg" alt="star" />
           </div>
           <p>
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -64,7 +64,7 @@ const Container5 = () => {
             quis viverra ornare."
           </p>
           <div className="info">
-            <img src="/pp3.png" alt="pp3" />
+            <img src="./pp3.png" alt="pp3" />
             <div>
               <h1>Courtney Henry</h1>
               <p>Johnson & Johnson</p>

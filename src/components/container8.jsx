@@ -11,7 +11,7 @@ const Container8 = () => {
           with DevOps.
         </p>
       </div>
-      <img src="/down.svg" alt="down" />
+      <img src="./down.svg" alt="down" />
     </div>
   );
 };

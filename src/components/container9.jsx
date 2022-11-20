@@ -3,10 +3,10 @@ import React from "react";
 const Container9 = () => {
   return (
     <div className="container9">
-      <img src="/footerbg.svg" alt="gnb" className="bg" />
+      <img src="./footerbg.svg" alt="gnb" className="bg" />
       <div className="content">
         <div className="left">
-          <img src="/navlogo.svg" alt="navlogo" />
+          <img src="./navlogo.svg" alt="navlogo" />
           <ul>
             <li>
               <a href="/">Home</a>

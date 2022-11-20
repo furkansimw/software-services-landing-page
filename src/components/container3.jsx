@@ -9,7 +9,7 @@ const Container3 = () => {
       </div>
       <ul>
         <li>
-          <img src="/1.svg" alt="1" />
+          <img src="./1.svg" alt="1" />
           <h1>Task Management</h1>
           <p>
             Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
@@ -19,7 +19,7 @@ const Container3 = () => {
           <button>View More</button>
         </li>
         <li className="m">
-          <img src="/2.svg" alt="2" />
+          <img src="./2.svg" alt="2" />
           <h1>Automation</h1>
           <p>
             Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
@@ -29,7 +29,7 @@ const Container3 = () => {
           <button>View More</button>
         </li>
         <li>
-          <img src="/3.svg" alt="3" />
+          <img src="./3.svg" alt="3" />
           <h1>Budgeting Tools</h1>
           <p>
             Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
